@@ -34,6 +34,7 @@
 
 
 
+
         <!-- -------------------------------------------------- CUADRO CONTENEDOR DE INFORMACION------------------------------------------------- -->
 
         <div class="flex justify-center w-full">
